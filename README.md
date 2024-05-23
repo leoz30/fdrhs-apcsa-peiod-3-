@@ -1,4 +1,6 @@
 ap csa
+
+
 FRQ 1
 This question is about makeing a method to see how much a bird eats in simple terms.
 some struggles was using the math. random to get the percentage.
