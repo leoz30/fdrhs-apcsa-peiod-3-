@@ -1,0 +1,1 @@
+FRQ 1 This question is about makeing a method to see how much a bird eats in simple terms. some struggles was using the math. random to get the percentage. we went over math.random literraly before teh test started. what was learned was just building up on past knowledge.
