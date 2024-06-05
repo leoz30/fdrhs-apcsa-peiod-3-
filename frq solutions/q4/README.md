@@ -1,0 +1,1 @@
+FRQ 4 this question is about identifying a number in a specific location and get the bigger number either right of below it. some struggles was pin pointing the specific grid using enhance for loop/ Coding bat practices in for loop.
