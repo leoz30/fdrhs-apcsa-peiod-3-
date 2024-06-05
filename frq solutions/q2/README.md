@@ -1,0 +1,1 @@
+FRQ 2 this question is about making a classs of a score board like those in basket ball games. Create a custom class that represents a scoreboard for a sporting event. Mangaging all of the data, such as team names, scores, and which team is active. Updating instance variables to keep track of when a team scored. some struggles was changing between the teams.
